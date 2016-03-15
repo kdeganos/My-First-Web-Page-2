@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  font-style: oblique;
+}
+
+h3 {
+  color: green;
+  font-family: fantasy;
+}
+
+ul {
+  font-family: cursive;
+}
+
+body {
+  font-family: fantasy;
+}
